@@ -16,7 +16,20 @@
   },
   "devDependencies": {
     "@types/node": "^9.4.6",
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-config-typescript": "^1.0.2",
+    "eslint-import-resolver-alias": "^1.0.3",
+    "eslint-plugin-import": "^2.10.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-typescript": "^0.11.0",
+    "eslint-plugin-vue": "^4.4.0",
     "ts-loader": "^3.5.0",
-    "typescript": "^2.7.2"
+    "typescript": "^2.7.2",
+    "typescript-eslint-parser": "^14.0.0",
+    "vue-eslint-parser": "^2.0.3"
   }
 }
